@@ -580,7 +580,7 @@ var AirPlane = function() {
 
 	// const self = this;
 	const loader = new THREE.TextureLoader();
-	loader.load( `sv.png`, function ( texture ) {
+	loader.load( `d.png`, function ( texture ) {
 
 			// in this example we create the material when the texture is loaded
 			// const img = texture.image;
